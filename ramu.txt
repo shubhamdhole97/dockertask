@@ -8,3 +8,6 @@ i ghalya
 doubel
 
 doubel triple
+
+
+tripple
