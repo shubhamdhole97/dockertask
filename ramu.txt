@@ -5,4 +5,6 @@ here is additional my programm
 
 i ghalya
 
-doubel 
+doubel
+
+doubel triple
